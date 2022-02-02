@@ -1,0 +1,13 @@
+#Pandas Cheat Sheet
+
+
+import pandas as pd
+
+Must use
+
+
+Introduction
+call for any function ()
+
+#Rename Column
+df.rename(columns={"Nom actuel": "Nom Souhaité"}, inplace=True)
